@@ -1,5 +1,4 @@
-          ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗣𝗥𝗢𝗙𝗜𝗟𝗘)</b></p>
-<p align="center">
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗣𝗥𝗢𝗙𝗜𝗟𝗘)</b></p>
 <p align="center">
 <div align="center">
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
