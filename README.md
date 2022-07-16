@@ -22,3 +22,7 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=Akshay-Chand&theme=react-dark" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://te.legra.ph/file/30b024d67ee4a165e504b.jpg" alt="MKN BOTZ LOGO">
+</p>
