@@ -4,7 +4,7 @@
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Akshay-Chand}/count.svg"/></p> 
 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/AkshayChand_695)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/Akshay_Chand695)
  
 <a href="https://telegram.dog/Akshay_Chand"><img alt="Telegram" src="https://img.shields.io/badge/Akshay Chand-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
