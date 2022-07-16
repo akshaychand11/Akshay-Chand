@@ -24,5 +24,5 @@
 </p>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/30b024d67ee4a165e504b.jpg" alt="MKN BOTZ LOGO">
+  <img src="https://te.legra.ph/file/085c2b4cdcab21a1ce3d8.jpg" alt="Akshay Chand">
 </p>
