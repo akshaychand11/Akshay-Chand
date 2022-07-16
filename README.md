@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗠𝗬+𝗣𝗥𝗢𝗙𝗜𝗟𝗘;𝗜'𝗠+𝗔𝗞𝗦𝗛𝗔𝗬+𝗖𝗛𝗔𝗡𝗗;𝗙𝗥𝗢𝗠+𝗠𝗔𝗛𝗔𝗥𝗔𝗦𝗛𝗧𝗥𝗔+𝗜𝗡𝗗𝗜𝗔)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝐑𝐀𝐒𝐇𝐌𝐈𝐊𝐀+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝐑𝐌+𝐒𝐓𝐔𝐃𝐈𝐎!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+
 <p align="center">
 <div align="center">
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
