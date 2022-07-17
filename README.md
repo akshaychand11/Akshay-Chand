@@ -9,6 +9,7 @@
  
 <a href="https://telegram.dog/Akshay_Chand"><img alt="Telegram" src="https://img.shields.io/badge/Akshay Chand-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
+[![Sparkline](https://stars.medv.io/Akshay-Chand/Akshay-Chand.svg)](https://stars.medv.io/Akshay-Chand/Akshay-Chand)
 
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=Akshay-Chand&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
