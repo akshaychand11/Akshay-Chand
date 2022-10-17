@@ -21,9 +21,9 @@
   </a>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Joelkb&theme=highcontrast" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Joelkb&theme=tokyonight" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelkb&layout=compact&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Akshay-Chand&theme=highcontrast" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Akshay-Chand&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Chand&layout=compact&theme=tokyonight" align="center">
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> </a>
