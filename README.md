@@ -14,7 +14,8 @@
 <p align="center">
 😎 𝐌𝐘 𝐒𝐎𝐂𝐈𝐀𝐋 𝐏𝐑𝐎𝐅𝐈𝐋𝐄𝐒 😎
 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_aadil_m__)  </a>
+ 
+                [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/akshaychand10)  </a>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Akshay-Chand&theme=highcontrast" align="center">
